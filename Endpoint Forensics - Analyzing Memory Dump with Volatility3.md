@@ -1,4 +1,4 @@
-# Endpoint Forensics - Involving a Trojan
+# Endpoint Analysis - Involving a Trojan
 
 ## Objective
 
