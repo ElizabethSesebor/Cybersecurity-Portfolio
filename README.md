@@ -11,30 +11,39 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ElizabethSesebor/Cybersecurity-Portfolio/blob/main/Network%20Forensics%20-%20Analyzing%20PCAP%20with%20Wireshark.md">Network Analysis</a>| 
+| Threat Detection and Incident Response         | 
+| Vulnerability Assessment and Remediation       | 
+| Endpoint Security and System Hardening         | <a href="https://github.com/ElizabethSesebor/Cybersecurity-Portfolio/blob/main/Endpoint%20Forensics%20-%20Analyzing%20Memory%20Dump%20with%20Volatility3.md">Endpoint Analysis</a>| 
+| Virtualization and Lab Environments            | 
+| Email Security                                 | <a href="https://github.com/ElizabethSesebor/Cybersecurity-Portfolio/blob/main/PHISHING%20EMAIL%20ANALYSIS.pdf">Email Analysis</a>|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-3B5EBB?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### Vulnerability Assessment
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00B388?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0E83CD?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ## Certifications
@@ -42,6 +51,3 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- [Phishing Email Analysis] (https://github.com/ElizabethSesebor/Cybersecurity-Portfolio/blob/main/PHISHING%20EMAIL%20ANALYSIS.pdf)
-- SOC Automation Project
