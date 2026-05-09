@@ -1,4 +1,4 @@
-# Endpoint Analysis - Involving a Trojan
+# Endpoint Analysis - Utilize ALEAPP to analyze Android device artifacts
 
 ## Objective
 
@@ -64,6 +64,3 @@ The output showed this file path: '\Users\0xSh3rl0ck\AppData\Roaming\116711e5a2a
 Furthermore, if you see in the above img6, i also checked for where else the malware might be consistenly present. And that showed that it is also present in the \Windows\System32\Tasks\ directory. Files stored in the Tasks directory are typically associated with Windows Task Scheduler, a legitimate tool used to automate tasks. Malware often abuses scheduled tasks to establish persistence by creating tasks that execute malicious files at predefined intervals or system events.
 
 The presence of lssass.exe in the Tasks directory implies that the malware likely registered itself as a scheduled task. This approach allows it to automatically restart upon reboot or at scheduled times, ensuring continuous execution. Task Scheduler persistence is particularly stealthy because it leverages a trusted Windows component, making it less likely to trigger alarms in security monitoring tools.
-
-
-
