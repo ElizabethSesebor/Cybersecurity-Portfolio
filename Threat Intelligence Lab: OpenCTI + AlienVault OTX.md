@@ -6,7 +6,11 @@ A hands-on threat intelligence project. I deployed OpenCTI on Ubuntu with Docker
 
 This repository is the technical guide: how to build the lab, the configuration I used, the problems I hit and how I fixed them, and a summary of the analysis. The full write-up is on Medium: [https://medium.com/@elizabethsesebor169]
 
-<img width="777" height="320" alt="Picture1" src="https://github.com/user-attachments/assets/c266bdfa-1537-4ca2-933b-da5cdcb306cd" />
+
+
+<img width="1280" height="646" alt="IMG-20260930-WA0038" src="https://github.com/user-attachments/assets/b5a3cc2c-ea84-4e5d-981e-e6221f5fdf1d" />
+
+
 
 
 | Category | Details |
